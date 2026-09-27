@@ -1,0 +1,6 @@
+{
+  "name": "AnatomeX - Interactive Biological & Anatomical Encyclopedia",
+  "description": "An interactive digital museum and scientific encyclopedia for exploring the internal and external anatomy, physiological systems, and evolutionary adaptations of living organisms across Earth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
